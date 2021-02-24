@@ -2,12 +2,18 @@
   background: #f8f8f8;
 }
 
+.title {
+}
+
+.twitter {
+  right: 10;
+}
+
 .fixed01{
-  width: 100%;
-  position: sticky;
-  top: 0;
+  right: 0;
   color: #fff;
   background: #333;
+  position: fixed;
 }
 
 .title {
