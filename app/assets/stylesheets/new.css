@@ -1,0 +1,14 @@
+m {
+  margin: 25;
+  justify-content: center!important;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+  color: #212529;
+}
