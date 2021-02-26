@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アプリケーション名
+ボーダーライン表
 
-Things you may want to cover:
+アプリ概要
+パチンコのメイン機種のボーダーをチェックでき、計算もできる
 
-* Ruby version
+URL
+https://peaceful-reef-00577.herokuapp.com/
 
-* System dependencies
+利用方法
+パチンコを打ちながら、ボーダーをすぐにチェックできる。
+今売っている台に期待値があるのか計算できるように計算機もある。
 
-* Configuration
+目指した課題解決
+一々台によってボーダーを調べるのは面倒臭いという友達の要望を答えて作成しました。
 
-* Database creation
+洗い出した要件
 
-* Database initialization
+#パチンコのボーダー表
+#ボーダーの計算
+#期待値に関する動画
 
-* How to run the test suite
+実装した機能についてのGIFと説明
+https://gyazo.com/a8d9445119a9e4986230dedd44e7c588
+これでボーダーの計算ができる
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+実装予定の機能
+動画のリンク付
 
-* ...
+ローカルでの動作方法
+https://peaceful-reef-00577.herokuapp.com/
