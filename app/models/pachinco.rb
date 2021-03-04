@@ -1,0 +1,2 @@
+class Pachinco < ApplicationRecord
+end
